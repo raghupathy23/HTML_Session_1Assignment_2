@@ -1,2 +1,1 @@
-# HTML_Session_1Assignment_2
-HTML_Session_1Assignment_2
+Design an HTML5 page having body, head and title.
